@@ -3,14 +3,27 @@
 body {
     background-image: url('https://github.com/Drake-Alexander/First-Website/blob/main/Background.jpg?raw=true');
   }  
-  span {rgb(247, 133, 91)}
-  li {color:"#ffffff" link="#ff0000" vlink="#ff0000" alink="#ff0000"}
+  h1 {
+    color: rgba(37,142,255,1);
+  }
 
-  h1 { color: rgba(37,142,255,1);}
-  h2 { color: rgba(37,142,255,1);}
-  h3 { color: rgba(37,142,255,1);}
-  h4 { color: rgb(247, 133, 91);}
+  h2 { 
+    color: rgba(37,142,255,1);
+  }
+  h3 { 
+    color: rgba(37,142,255,1);
+  }
+  h4 { 
+    color: rgb(247, 133, 91);
+  }
+  span {
+    color: rgb(255, 255, 255)
+  }
 
+  li {
+    color: rgb(255, 255, 255)
+  }
 
-
-
+  Footer {
+    color: rgb(247, 133, 91)
+  }
