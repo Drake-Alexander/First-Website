@@ -4,9 +4,7 @@ function username() {
     const username=prompt('Please let us know who you are;')
         if (username =="") { prompt("How about a code name instead?")
             console.log(username);
-        } else {
-            
-        }
+        } else 
             document.write('<p> Hi ',username,' welcome to my page!</p>');
         
 
